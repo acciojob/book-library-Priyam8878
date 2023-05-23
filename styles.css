@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
-.book-library{
+body{
+	background-color:#f8f8f8;
+}
+.booklibrary{
 	text-align:center;
-	background-color: #f8f8f8 ;
+	background-color: #ffffff ;
 	
 }
 .book{
